@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "uranium_items_mod:item/uranium_helmet"
+
+  }
+}
